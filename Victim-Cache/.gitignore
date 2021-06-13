@@ -1,0 +1,10 @@
+#Dictionary
+simplescalar_documentation/
+spec2006_arg/
+test/
+.vscode/
+
+#File
+*.o
+*.a
+*.sh
